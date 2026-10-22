@@ -11,7 +11,7 @@ This project was created to practice JavaScript game logic, DOM manipulation, ev
 
 
 💻 GitHub Repository:
-"View Source Code" (YOUR-GITHUB-LINK)
+"View Source Code" (https://github.com/katyayniyadav18/Tic-Tac.git)
 
 ---
 
