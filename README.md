@@ -7,7 +7,7 @@ This project was created to practice JavaScript game logic, DOM manipulation, ev
 🚀 Live Demo
 
 🎮 Play the Game:
-"Play Tic Tac Toe" (tic-tac-katyayni.vercel.app)
+"Play Tic Tac Toe" https://tic-tac-katyayni.vercel.app/
 
 
 💻 GitHub Repository:
@@ -85,7 +85,7 @@ The project is deployed on Vercel, making the game accessible online through a l
 
 🔗 Links
 
-Live Demo: "Play Now" (tic-tac-katyayni.vercel.app)
+Live Demo: "Play Now" https://tic-tac-katyayni.vercel.app/
 
 
 
